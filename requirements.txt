@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly.express
+ plotly.offline
+plotly.graph_objs
+ipywidgets
